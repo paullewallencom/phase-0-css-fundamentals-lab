@@ -1,5 +1,47 @@
 body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+nav {
+    text-align: center;
+}
+
+nav a {
+    text-align: center;
+    background-color: grey;
+    padding: 0px 10px;
+}
+
+figcaption {
+    text-align: center;
+    font-size: small;
+}
+
+section#featured-property p {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 800px;
+}
+
+footer div {
+    text-align: center;
+    float: left;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: red;
 }
